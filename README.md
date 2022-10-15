@@ -17,7 +17,7 @@ renaissance.
 • Trained on Google Colab for GPUs and TPUs usage.
 
 # Method:
-GANs learn a probability distribution of a dataset by pitting
+GANs learn a probability distribution of a dataset by putting
 two neural networks against each other.
 Training generative adversarial networks involve two
 objectives:
